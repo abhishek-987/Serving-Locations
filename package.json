@@ -1,0 +1,24 @@
+{
+  "name": "serving-locations",
+  "version": "1.0.0",
+  "description": "to hold and share locations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-987/Serving-Locations.git"
+  },
+  "author": "abhishek-987",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-987/Serving-Locations/issues"
+  },
+  "homepage": "https://github.com/abhishek-987/Serving-Locations#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
